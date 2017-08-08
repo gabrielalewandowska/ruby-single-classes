@@ -24,7 +24,7 @@ class Library
   end
 
   def add_book(title)
-    @books.push@books.push(
+    @books.push(
     {
       title: title,
       rental_details: {
